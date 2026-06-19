@@ -1,0 +1,7 @@
+1.
+Comando uname -a: Linux codespaces-fbb10d 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+Comando whoami: codespace
+
+2.
+Es fundamental porque permite saber si el sistema operativo está actualizado, si es compatible con el software o las dependencias (como Node.js) que queremos instalar, y nos ayuda a verificar los permisos del usuario para evitar problemas de seguridad o bloqueos al ejecutar procesos.
+

@@ -1,0 +1,13 @@
+Es fundamental porque permite saber si el sistema operativo está actualizado, si es compatible con el software o las dependencias (como Node.js) que queremos instalar, y nos ayuda a verificar los permisos del usuario para evitar problemas de seguridad o bloqueos al ejecutar procesos.
+Cuando una plataforma tecnológica se sostiene sobre la participación de una comunidad (como foros, redes sociales, herramientas de presupuesto participativo o espacios de cocreación), la seguridad digital deja de ser un asunto puramente técnico y se convierte en el pilar que sostiene la confianza y la convivencia.
+La seguridad digital es vital en estos entornos por las siguientes razones fundamentales:
+1. Protección de la Identidad y Datos Personales
+Las plataformas comunitarias recopilan correos, nombres, opiniones y, a veces, ubicaciones o datos sensibles. Si un atacante vulnera el sistema, podría robar estos datos para suplantar identidades, realizar estafas o exponer la vida privada de los participantes (lo que se conoce como doxeo).
+2. Preservación de la Confianza y la Libre Expresión
+Para que las personas participen activamente, opinen y colaboren, necesitan sentirse seguras. Si la comunidad se llena de perfiles falsos (bots), acoso o filtraciones de información, los usuarios legítimos sentirán miedo a expresarse y abandonarán la plataforma, destruyendo el propósito participativo del proyecto.
+3. Evitar la Manipulación de Procesos 
+Si la plataforma incluye votaciones, encuestas o presupuestos participativos, una seguridad débil permitiría que atacantes o scripts automatizados alteren los resultados. Esto invalidaría cualquier proceso democrático o comunitario, haciendo que las decisiones finales no reflejen la voluntad real de la comunidad.
+4. Control del Sabotaje y Contenido Malicioso 
+Sin barreras de seguridad, usuarios malintencionados o hackers pueden inyectar enlaces con virus, publicidad engañosa o contenido inapropiado en los muros o comentarios de la comunidad. Esto no solo daña la experiencia, sino que puede infectar los dispositivos de los propios miembros.
+5. Continuidad del Espacio Común
+Un ataque de denegación de servicio (DDoS) o un hackeo al servidor puede tumbar la plataforma por días. Para una comunidad, esto significa perder su espacio de reunión, interrumpir debates importantes y dañar la reputación de los administradores del proyecto.
